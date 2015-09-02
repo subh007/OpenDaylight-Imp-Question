@@ -7,6 +7,7 @@ MDSAL, Netconf and Yang -
 https://wiki.opendaylight.org/view/OpenDaylight_Controller:MD-SAL:FAQ
 https://ask.opendaylight.org/question/471/difference-between-mdsal-and-adsal/
 https://ask.opendaylight.org/question/99/how-does-request-routing-works/  (must read)
+https://ask.opendaylight.org/question/3974/explanation-for-writing-configxml-file/ (must read)
 https://ask.opendaylight.org/question/4679/how-do-i-figure-out-the-required-pomxml-dependencies-for-yang-imports/
 
 DataStore -
