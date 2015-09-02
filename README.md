@@ -2,10 +2,11 @@
 
 Importatn questions from the ask.opendaylight :
 
-MDSAL - 
+MDSAL, Netconf and Yang - 
 
 https://wiki.opendaylight.org/view/OpenDaylight_Controller:MD-SAL:FAQ
 https://ask.opendaylight.org/question/471/difference-between-mdsal-and-adsal/
+https://ask.opendaylight.org/question/4679/how-do-i-figure-out-the-required-pomxml-dependencies-for-yang-imports/
 
 DataStore -
 
