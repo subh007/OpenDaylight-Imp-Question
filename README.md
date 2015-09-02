@@ -22,7 +22,7 @@ Postman -
 
 https://ask.opendaylight.org/question/1008/clarification-on-using-restconf-api-in-karaf-helium-distribution/
 
-Application Developemnt (developement issue you may face)-
+Application Developement (developement issue you may face)-
 
 https://ask.opendaylight.org/question/3826/why-feature-openflowplugin-is-not-avilable-for-installation/
 https://ask.opendaylight.org/question/3732/error-could-not-find-artifact-in-default-local/
