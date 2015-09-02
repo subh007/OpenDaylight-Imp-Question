@@ -26,6 +26,7 @@ Application Developemnt (developement issue you may face)-
 
 https://ask.opendaylight.org/question/3826/why-feature-openflowplugin-is-not-avilable-for-installation/
 https://ask.opendaylight.org/question/3732/error-could-not-find-artifact-in-default-local/
+https://ask.opendaylight.org/question/3651/error-on-installing-feature-to-odl-karaf-sr3-distribution/
 
 Contribution -
 
