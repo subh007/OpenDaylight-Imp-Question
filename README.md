@@ -10,6 +10,7 @@ https://ask.opendaylight.org/question/99/how-does-request-routing-works/  (must 
 https://ask.opendaylight.org/question/3974/explanation-for-writing-configxml-file/ (must read)
 https://ask.opendaylight.org/question/4679/how-do-i-figure-out-the-required-pomxml-dependencies-for-yang-imports/
 https://ask.opendaylight.org/question/4221/what-are-yang-fields-supported-in-odl/ (supported yang fields)
+https://ask.opendaylight.org/question/5346/how-to-convert-between-ba-and-bi-objects/ (BA to BI)
 
 DataStore -
 
