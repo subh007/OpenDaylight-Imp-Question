@@ -21,6 +21,7 @@ Openflow -
 https://ask.opendaylight.org/question/4082/how-to-write-flow-in-karaf/
 https://ask.opendaylight.org/question/5115/added-flow-to-operational-datastore-has-other-id-than-specified/ (alien flow ID)
 https://ask.opendaylight.org/question/5201/what-happens-when-a-disconnected-switch-reconnects-to-the-controller/ (switch reconne tion)
+https://ask.opendaylight.org/question/5505/is-there-a-way-to-disable-flow-stats-request-multipart-msg-from-being-generated-periodically/ (disable periodic stat-request)
 
 Postman -
 
